@@ -4,8 +4,8 @@ global:
 
 aksOperator:
   image:
-    repository: rancher/aks-operator
-    tag: v1.0.6
+    repository: wangsiye/aks-operator
+    tag: test2
 
 httpProxy: ""
 httpsProxy: ""
